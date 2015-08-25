@@ -1,0 +1,24 @@
+{
+  "name": "pm2s-worker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "slack-notify": "^0.1.4",
+    "worque": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pm2s/pm2s-worker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pm2s/pm2s-worker/issues"
+  },
+  "homepage": "https://github.com/pm2s/pm2s-worker#readme"
+}
